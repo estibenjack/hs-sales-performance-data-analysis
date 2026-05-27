@@ -66,7 +66,7 @@ The dashboard was built entirely in Microsoft Excel using Power Query, Pivot Tab
  
 **Top agents** — Reed Clapper leads on win rate at 65.4% across 237 deals, closing fewer opportunities but with higher quality. Darcel Schlecht leads on total revenue through volume, handling 747 deals at a 46.7% win rate. Two different approaches to success worth sharing with the wider team.
  
-**Revenue dip Aug–Sep** — The dip in revenue during August and September was driven by fewer deals rather than smaller deal sizes, pointing to a pipeline gap during that period rather than a pricing or product issue.
+**Revenue dip Apr, Jul, Oct** — Revenue peaks at quarter-end months (Mar, Jun, Sep) and dips sharply the following month, suggesting a quarterly closing pattern where the team pushes hard to hit quarter-end targets. This creates predictable revenue volatility that could be smoothed with more consistent pipeline management throughout the quarter
  
 **48% win rate** — Nearly half of all engaged deals are being lost. MG Special, with an average deal size of just £35, may have a product-market fit issue worth investigating alongside the sales and product teams.
  
@@ -76,7 +76,7 @@ The dashboard was built entirely in Microsoft Excel using Power Query, Pivot Tab
  
 1. **Expand GTK 500 into Central and East regions** — given its high deal value, even a modest number of deals in other regions to start off could significantly lift overall revenue.
 2. **Share Reed Clapper's approach with the team** — with a win rate 17 points above average, there's a clear opportunity to understand what's working and apply it more broadly.
-3. **Investigate the Aug–Sep pipeline gap** — the revenue dip appears to be a volume issue, suggesting a gap in prospecting activity earlier in the year. Worth reviewing the engagement cycle and timing.
+3. **Smooth the quarterly revenue cycle** — revenue peaks sharply at quarter-end (Mar, Jun, Sep) and drops the following month, suggesting the team is pushing hard to close at quarter-end rather than maintaining consistent pipeline activity throughout. Introducing mid-quarter pipeline reviews and earlier engagement with prospects could reduce this volatility and create more predictable revenue."
 4. **Review MG Special's positioning** — at £35 average deal size, it's unclear whether this product is generating meaningful value relative to the sales effort required to close it.
 
 ---
